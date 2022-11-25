@@ -1,6 +1,8 @@
 var config = [
+  genders = [
   {genderName: "Man"},
   {genderName: "Woman"}
+  ]
 ]
 
-console.log(config)
+console.log(genders)
